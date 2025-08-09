@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Ángel Eduardo Zamora
-**Data Analyst | Power BI Specialist | Turning Data into Decisions**
+# 👋 Hi, I’m Ángel Zamora
+**Data Analyst | Power BI & Tableau Specialist | Turning Data into Decisions**
 
 💡 I help businesses transform raw data into clear, actionable strategies.  
 📊 Specialized in **Power BI** and data visualization for corporate, education, and logistics environments.  
