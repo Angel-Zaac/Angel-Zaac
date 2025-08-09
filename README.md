@@ -7,6 +7,8 @@ I’m really enjoy designing dashboards that turn raw data into meaningful, acti
 📊 Specialized in **Power BI** and **Tableau** for data visualization 
 🔍 Experienced in data cleaning, modeling, and analysis using **Power Query, DAX, Tableau Prep**, SQL, and multiple data sources.
 
+[![Power BI](https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true)](https://powerbi.microsoft.com)
+
 ---
 
 ## 🚀 Core Skills
