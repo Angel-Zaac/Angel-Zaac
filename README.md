@@ -27,15 +27,6 @@ I’m really enjoy designing dashboards that turn raw data into meaningful, acti
 
 ---
 
-## 🚀 Core Skills
-- **Data Visualization**: Power BI, Tableau, DAX, Power Query, Tableau Prep
-- **Data Modeling**: Star schema, relational models, calculated fields
-- **Data Connections**: SQL, Excel, APIs, Google Sheets
-- **Data Storytelling**: Dashboards designed for KPIs, trends & decision-making
-- **Automation**: Scheduled dataset refresh, data pipelines, and report publishing
-
----
-
 ## ❤️ Giving Back
 I believe data can be a force for good.  
 That’s why I offer **pro-bono data analysis and dashboard development** for **non-profit organizations** that have no commercial purposes.  
