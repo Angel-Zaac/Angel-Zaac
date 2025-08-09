@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Angel-Zaac
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on real-world projects that allow me to apply and grow my skills in data analysis and Python programming.
-- I'm interested in opportunities that challenge me to learn new techniques and tools, and I'm open to mentorship and bidirectional learning
-- 📫 How to reach me angel.edzac@gmail.com
+# 👋 Hi, I’m Ángel Eduardo Zamora
+**Data Analyst | Power BI Specialist | Turning Data into Decisions**
 
-<!---
-Angel-Zaac/Angel-Zaac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 I help businesses transform raw data into clear, actionable strategies.  
+📊 Specialized in **Power BI** and data visualization for corporate, education, and logistics environments.  
+🔍 Experienced in data cleaning, modeling, and analysis using **Power Query, DAX**, and multiple data sources.
