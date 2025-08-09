@@ -1,8 +1,10 @@
-# 👋 Hi, I’m Ángel Zamora
+# 👋 Welcome, I’m Ángel Zamora
+
 **Data Analyst | Power BI & Tableau Specialist | Turning Data into Decisions**
+I’m really enjoy designing dashboards that turn raw data into meaningful, actionable insights.
 
 💡 I help businesses transform raw data into clear, actionable strategies.  
-📊 Specialized in **Power BI** and **Tableau** for data visualization across corporate, education, and other sectors.  
+📊 Specialized in **Power BI** and **Tableau** for data visualization 
 🔍 Experienced in data cleaning, modeling, and analysis using **Power Query, DAX, Tableau Prep**, SQL, and multiple data sources.
 
 ---
