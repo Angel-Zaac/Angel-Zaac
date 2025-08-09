@@ -7,7 +7,23 @@ I’m really enjoy designing dashboards that turn raw data into meaningful, acti
 📊 Specialized in **Power BI** and **Tableau** for data visualization 
 🔍 Experienced in data cleaning, modeling, and analysis using **Power Query, DAX, Tableau Prep**, SQL, and multiple data sources.
 
-[![Power BI](https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true)](https://powerbi.microsoft.com)
+## 🛠 Technologies
+
+<a href="https://powerbi.microsoft.com" target="_blank">
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" width="48" height="48" alt="Power BI" />
+</a>
+<a href="https://www.tableau.com" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" />
+</a>
+<a href="https://www.python.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="48" height="48" alt="Python" />
+</a>
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="48" height="48" alt="Excel" />
+</a>
+<a href="https://www.mysql.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="48" height="48" alt="MySQL" />
+</a>
 
 ---
 
